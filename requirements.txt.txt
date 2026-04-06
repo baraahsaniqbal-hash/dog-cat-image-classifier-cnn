@@ -1,0 +1,8 @@
+tensorflow
+numpy
+opencv-python
+pandas
+matplotlib
+tqdm
+kaggle
+kagglehub

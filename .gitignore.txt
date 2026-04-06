@@ -1,0 +1,5 @@
+dataset/
+*.zip
+*.h5
+kaggle.json
+__pycache__/
